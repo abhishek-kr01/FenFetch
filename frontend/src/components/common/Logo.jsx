@@ -8,7 +8,7 @@ const Logo = ({ size = "default" }) => {
   return (
     <div className={logoClass}>
       <FaChartLine className="logo-icon" />
-      <span className="logo-text">FinancialPro</span>
+      <span className="logo-text">FinFetch</span>
     </div>
   );
 };

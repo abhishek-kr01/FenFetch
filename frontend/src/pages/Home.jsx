@@ -47,7 +47,7 @@ const Home = () => {
               ) : (
                 <>
                   <Button to="/register" variant="primary" size="large">
-                    Get Started for Free
+                    Get Started
                   </Button>
                   <Button to="/login" variant="outline" size="large">
                     Sign In
@@ -72,10 +72,7 @@ const Home = () => {
           </div>
 
           <div className="hero-image">
-            <img
-              src="/images/dashboard-preview.png"
-              alt="FinancialPro Dashboard"
-            />
+            <img src="/FinFetch.jpg" alt="FinFetch Dashboard" />
           </div>
         </div>
       </section>
