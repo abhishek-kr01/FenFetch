@@ -32,7 +32,7 @@ const AuthLayout = () => {
 
         <div className="auth-footer">
           <p>
-            &copy; {new Date().getFullYear()} FinancialPro. All rights reserved.
+            &copy; {new Date().getFullYear()} FinFetch. All rights reserved.
           </p>
         </div>
       </div>

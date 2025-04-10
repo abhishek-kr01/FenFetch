@@ -208,7 +208,7 @@ const Home = () => {
             <h2>Ready to Take Control of Your Financial Future?</h2>
             <p>
               Join thousands of users making informed investment decisions with
-              FinancialPro
+              FinFetch
             </p>
             <ul className="cta-features">
               <li>
@@ -231,7 +231,7 @@ const Home = () => {
                 </Button>
               ) : (
                 <Button to="/register" variant="primary" size="large">
-                  Get Started for Free
+                  Get Started
                 </Button>
               )}
             </div>

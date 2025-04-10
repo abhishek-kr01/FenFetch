@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="footer-brand">
             <Logo size="small" />
             <p className="footer-tagline">
-              Professional financial data and analysis platform
+              FinFetch financial data and analysis platform
             </p>
             <div className="footer-social">
               <a
@@ -123,10 +123,10 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} FinancialPro. All rights reserved.</p>
+          <p>&copy; {currentYear} FinFetch. All rights reserved.</p>
           <p className="footer-disclaimer">
-            All financial data provided is for informational purposes only, not
-            intended for trading or investing decisions.
+            &nbsp; All financial data provided is for informational purposes
+            only, not intended for trading or investing decisions.
           </p>
         </div>
       </div>
